@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80)
   
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Welcome%20(M_W)%20Github&fontSize=50&fontColor=000&fontAlign=50&animation=fadeIn&stroke=fff)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Welcome%20(SUPACE)%20Github&fontSize=50&fontColor=000&fontAlign=50&animation=fadeIn&stroke=fff)
 <br />
 <br />
 
