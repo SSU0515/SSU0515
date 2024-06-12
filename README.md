@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-![header]([https://capsule-render.vercel.app/api?type=waving&color=auto&text=&animation=twinkling&height=80](https://capsule-render.vercel.app/api?type=venom&height=300&color=f5427b&text=Welcome%20to%20SUPACE%20Github&fontColor=fff&fontSize=50&animation=twinkling))
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=f5427b&text=Welcome%20to%20SUPACE%20Github&fontColor=fff&fontSize=50&animation=twinkling)
 <p align='center'>
     Hi there 👋
 <br />
