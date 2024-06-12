@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <!--**SSU0515/SSU0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,8 +16,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Welcome%20(M_W)%20Github&fontSize=50&fontColor=000&fontAlign=50&animation=fadeIn&stroke=fff)
 <br />
 <br />
+
 <p align='center'>
-    <img src="https://imgcp.aacdn.jp/img-a/1200/900/global-aaj-front/article/2018/03/5ab8fea858695_5ab8fea47585a_1990197929.jpg">
+    Hi there 👋
 </p>
 
 <p>
