@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=f5427b&text=Welcome%20to%20SUPACE%20Github&fontColor=fff&fontSize=50&animation=twinkling)
 -->
 
-
-
+ <b>Hi there 👋</b>
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=f5427b&text=Welcome%20to%20SUPACE%20Github&fontColor=fff&fontSize=50&animation=twinkling"/>
-    Hi there 👋
 <br />
 <br />
 </p>
