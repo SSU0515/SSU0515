@@ -37,13 +37,11 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
        <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
        <img src="https://img.shields.io/badge/Upsplash-CC6699?style=flat-square&logo=unsplash&logoColor=white"/>
-
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
        <img src="https://img.shields.io/badge/CSS3-1572B66?style=flat-square&logo=CSS3&logoColor=white"/>
        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
