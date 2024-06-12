@@ -9,12 +9,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
-
-
-
+- ⚡ Fun fact: ...
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=f5427b&text=Welcome%20to%20SUPACE%20Github&fontColor=fff&fontSize=50&animation=twinkling)
+-->
+
+
+
 <p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=f5427b&text=Welcome%20to%20SUPACE%20Github&fontColor=fff&fontSize=50&animation=twinkling"/>
     Hi there 👋
 <br />
 <br />
